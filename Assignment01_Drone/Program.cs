@@ -14,7 +14,7 @@ namespace Assignment01_Drone
             altitude = 0;
             isFlying = false;
         }
-
+        
         public void Fly()
         {
             if (batteryLife > 20)
