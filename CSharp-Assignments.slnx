@@ -3,5 +3,6 @@
   <Project Path="Assignment 3/Assignment 3.csproj" />
   <Project Path="Assignment 4/Assignment 4.csproj" Id="171c3104-24d0-4caa-9f36-f6864b952641" />
   <Project Path="Assignment 5/Assignment 5.csproj" Id="c1bdca01-2f83-435e-a3c5-0f63499a197e" />
+  <Project Path="Assignment 6/Assignment 6.csproj" Id="c59f49dc-6f35-41dc-9708-9cb59ba9b471" />
   <Project Path="Assignment01_Drone/Assignment01_Drone.csproj" />
 </Solution>
