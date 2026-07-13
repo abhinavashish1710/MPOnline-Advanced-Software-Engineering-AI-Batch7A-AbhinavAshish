@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Assignment10_AgeSorting
+namespace Assignment08_AgeSorting
 {
     class Person
     {
