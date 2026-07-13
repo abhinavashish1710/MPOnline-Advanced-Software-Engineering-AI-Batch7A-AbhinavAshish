@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Assignment9_PlaylistManagement
+namespace Assignment7_PlaylistManagement
 {
     class Program
     {
