@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Assignment11_CustomSorting
+namespace Assignment09_CustomSorting
 {
     class Employee
     {
